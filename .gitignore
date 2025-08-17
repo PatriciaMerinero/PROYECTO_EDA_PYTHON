@@ -1,0 +1,15 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code (dejamos settings.json)
+.vscode/*
+!.vscode/settings.json
+
+
+# Sistema
+.DS_Store
+Thumbs.db
+
