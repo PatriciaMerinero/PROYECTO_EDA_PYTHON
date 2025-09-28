@@ -16,24 +16,7 @@
 
 # 🗂️Estructura
 
-PROYECTO_EDA_PYTHON/
-│── Data/
-│ ├── Raw/ # Datos originales
-│ │ ├── bank-additional.csv
-│ │ └── customer-details.xlsx
-│ ├── Output/ # Datos limpios y transformados
-│ │ ├── bank_clean.csv
-│ │ ├── customer_clean.csv
-│ │ └── full_clean.csv
-│
-│── Notebook/ # Notebooks de trabajo
-│ ├── 01_analisis_preliminar_limpieza_transformacion.ipynb
-│ ├── 02_EDA.ipynb
-│ └── 03_Informe.ipynb
-│
-│── .gitignore
-│── README.md
-│── requirements.txt
+``` PROYECTO_EDA_PYTHON/ │── Data/ │ ├── Raw/ # Datos originales │ │ ├── bank-additional.csv │ │ └── customer-details.xlsx │ ├── Output/ # Datos limpios y transformados │ │ ├── bank_clean.csv │ │ ├── customer_clean.csv │ │ └── full_clean.csv │ │── Notebook/ # Notebooks de trabajo │ ├── 01_analisis_preliminar_limpieza_transformacion.ipynb │ ├── 02_EDA.ipynb │ └── 03_Informe.ipynb │ │── .gitignore │── README.md │── requirements.txt ```
 
 
 
