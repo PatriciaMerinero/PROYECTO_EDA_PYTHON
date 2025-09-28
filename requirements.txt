@@ -1,6 +1,11 @@
 pandas
-openpyxl
-matplotlib
+numpy
 seaborn
+matplotlib
+openpyxl
+pycountry
+reverse_geocoder
+scipy
 ipykernel
-notebook
+jupyter
+
